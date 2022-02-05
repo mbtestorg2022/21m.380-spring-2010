@@ -119,14 +119,75 @@ Grading
 
 The final course grade will be determined from the following components:
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Reading and listening discussion leaders | 20% |
-| Musical design reports (3) | 30% |
-| Sonic system project and presentation | 20% |
-| Sonic system project draft | 5% |
-| Quizzes | 15% |
-| Participation | 10% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Reading and listening discussion leaders
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Musical design reports (3)
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Sonic system project and presentation
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Sonic system project draft
+{{< tdclose >}}
+{{< tdopen >}}
+5%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Quizzes
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Participation
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Grading policies, the use of grade modifiers, and additional grades will be given in accordance with policies set forth in the MIT Course Bulletin, [Academic Procedures and Institute Regulations.](http://catalog.mit.edu/mit/procedures/)
 
@@ -150,31 +211,351 @@ Suspected cases of academic misconduct will be handled according to section 10.2
 Schedule
 --------
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Foundations: Algorithmic and generative music systems | &nbsp; |
-| 2 | Foundations: Musical parameters, mappings, and tools | &nbsp; |
-| 3 | Approaches: Distributions and stochastics | &nbsp; |
-| 4 | Foundations: Historical and categorical perspectives | &nbsp; |
-| 5 | History: Serialism, loops, tiling, and phasing | &nbsp; |
-| 6 | Workshop | Musical design  {{< br >}}report 1 due |
-| 7 | History: Michele Gottfried Koenig | Quiz 1 |
-| 8 | Approaches: Permutations, generators, and chaos | &nbsp; |
-| 9 | History: Lejaren Hiller | &nbsp; |
-| 10 | Approaches: Probability and Markov chains | &nbsp; |
-| 11 | Workshop |  {{< br >}}{{< br >}} Musical design  {{< br >}}report 2 due {{< br >}}{{< br >}} Quiz 2 {{< br >}}{{< br >}}  |
-| 12 | History: Iannis Xenakis | &nbsp; |
-| 13 | Approaches: Non-standard synthesis | &nbsp; |
-| 14 | Approaches: Granular and concatenative synthesis | &nbsp; |
-| 15 | Approaches: Mapping, sonification, and data bending | Quiz 3 |
-| 16 | Workshop | Musical design  {{< br >}}report 3 due |
-| 17 | Approaches: Cellular automata | &nbsp; |
-| 18 | Approaches: Genetic algorithms | &nbsp; |
-| 19 | Approaches: Grammars and L-Systems | Quiz 4 |
-| 20 | History: Mechanical musical automata | &nbsp; |
-| 21 | Workshop | Sonic system  {{< br >}}project draft due |
-| 22 | Approaches: Agents and ecological models | &nbsp; |
-| 23 | Approaches: Expert systems and style emulation | Quiz 5 |
-| 24 | Discussion: Aesthetics and evaluations | &nbsp; |
-| 25 | Sonic system project presentations |  {{< br >}}{{< br >}} Sonic system {{< br >}}{{< br >}} project report {{< br >}}{{< br >}} due {{< br >}}{{< br >}}  |
-| 26 | Sonic system project presentations (cont.) |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Foundations: Algorithmic and generative music systems
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Foundations: Musical parameters, mappings, and tools
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Approaches: Distributions and stochastics
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Foundations: Historical and categorical perspectives
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+History: Serialism, loops, tiling, and phasing
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Workshop
+{{< tdclose >}}
+{{< tdopen >}}
+Musical design  
+report 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+History: Michele Gottfried Koenig
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz 1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Approaches: Permutations, generators, and chaos
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+History: Lejaren Hiller
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Approaches: Probability and Markov chains
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Workshop
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Musical design  
+report 2 due
+
+Quiz 2
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+History: Iannis Xenakis
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Approaches: Non-standard synthesis
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Approaches: Granular and concatenative synthesis
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Approaches: Mapping, sonification, and data bending
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz 3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Workshop
+{{< tdclose >}}
+{{< tdopen >}}
+Musical design  
+report 3 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Approaches: Cellular automata
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Approaches: Genetic algorithms
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Approaches: Grammars and L-Systems
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz 4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+History: Mechanical musical automata
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Workshop
+{{< tdclose >}}
+{{< tdopen >}}
+Sonic system  
+project draft due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Approaches: Agents and ecological models
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Approaches: Expert systems and style emulation
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz 5
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Discussion: Aesthetics and evaluations
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Sonic system project presentations
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Sonic system
+
+project report
+
+due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Sonic system project presentations (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
