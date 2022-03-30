@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 6a377018-7047-3fe4-dc22-9f5085ddbe47
 resourcetype: Image
 title: gameoflife.jpg
 uid: bbd6bf57-ef5b-c761-3af1-75b45590c400

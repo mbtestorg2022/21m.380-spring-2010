@@ -8,6 +8,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 89ac3698-3773-3e4c-c28a-471034f6579e
 resourcetype: Image
 title: Acr24F.jpg
 uid: 0a61e8ba-c3b9-2011-9a28-0d3b5a4213aa
